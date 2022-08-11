@@ -24,6 +24,10 @@ Desarrollar un sistema que permita organizar la información relacionada con los
 - Generar el registro y control de artículos y productos dentro de la empresa
 - Organizar el canal de peticiones quejas y recursos para los clientes de la empresa
 
+## Objetivo Módulo de Ventas
+Registrar el movimiento presentado en caja teniendo en cuenta el detalle del medio de pago, el tipo de venta (domicilio o local) y los datos del cliente, para de este modo obtener un registro completo de la operación presentada en el punto de venta desde la implementación del sistema de información (S.I.).
+
+
 
 
 
